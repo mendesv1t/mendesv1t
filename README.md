@@ -1,4 +1,4 @@
-# Olá, Vitória! ### ⚙️ GitHub Analytics
+# Olá, meu nome é Vitória, e sou Desenvolvedora Fullstack! ### ⚙️ GitHub Analytics
 
 <table>
   <tr>
@@ -28,7 +28,7 @@
 </table>
 <br />
 
---- ### 🏆 GitHub Profile Trophy:
+### 🏆 GitHub Profile Trophy:
 
 <p align="center">
   <a
