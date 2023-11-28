@@ -1,32 +1,17 @@
-<p align="left">
-
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriamchaves/" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendesv1t" alt="Instagram"/></a>
-</p>
-
 <img src="https://img.shields.io/static/v1?label=Overview&message=mendesv1t&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mendesv1t&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="ilustração do status do github">
 
-### Faça um breve apresentação sobre você
+
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Vitória Chaves&color=f8efd4&style=for-the-badge&logo=GitHub" alt="ilustração do nome">
 
-<p> Estudante de Ciência da Computação na **UFRJ**<br/> Eu sou desenvolvedora Fullstack.</p>
+<p> Estudante de Ciência da Computação na **UFRJ**<br/></p>
 
 <hr>
-### Experiência de trabalho
 
-**Software Engineer** \
-[**Nubank**](https://nubank.com.br/) • Contract \
-Linguagens & Tecnologias: `React Native`, `Node`, `Swift`, `Kotlin`, `OpenShift` \
-Projetos em destaque: [App](https://nubank.com.br/)
-<br/>
-<br/>
 
 Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/vitoriamchaves/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-## 💜 Olá, meu nome é <strong>{seu nome}!</strong>
+## 💜 Olá, meu nome é <strong>{Vitória}!</strong>
 
 ---
 
@@ -45,9 +30,14 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/vitoriamchaves/
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
+
+## 🚀 Contato
+
+<p align="left">
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitoriamchaves/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/mendesv1t" alt="Instagram"/></a>
+</p>
 ---
-
-## ⭐ Informações sobre minha conta GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
-
