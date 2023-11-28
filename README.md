@@ -2,10 +2,10 @@
 import Desenvolvedor from "SeuNick";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Seu nome";
-  area = "Sua área";
-  trabalho = "Onde trabalha";
-  local = "Local";
+  nome = "Vitória Chaves";
+  area = "Desenvolvedora Fullstack";
+  trabalho = "Equipe SIGA";
+  local = "UFRJ";
 }
 
 class Skills extends Desenvolvedor {
